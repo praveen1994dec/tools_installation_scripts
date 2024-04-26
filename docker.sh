@@ -10,7 +10,7 @@ sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubun
 
 sudo apt update -y
 
-apt-cache policy docker-ce -y
+apt-cache policy docker-ce        ### -y flag will not work
 
 sudo apt install docker-ce -y
 
