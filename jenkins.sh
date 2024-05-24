@@ -8,6 +8,7 @@
 #An upgrade is a whole new version of software that represents a significant change or major improvement.
 #DEB - A deb package (.deb file) is a software package in a specific format designed for Debian-based distributions recognized by the .deb extension. \
 #Deb packages allow installing local software on an Ubuntu system.
+# /dev/null - Use /dev/null to send any unwanted output from program/command.
 
 
 
